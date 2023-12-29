@@ -1,4 +1,4 @@
-h1{
+ h1{
     text-align:center;
 }
 h3{
@@ -21,4 +21,11 @@ table tr{
 
 .portfolio{
     padding:30px;
+}
+
+.fa-brands{
+    font-size: x-large;
+    color:blue;
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
 }
